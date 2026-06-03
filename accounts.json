@@ -1,0 +1,27 @@
+{
+    "accounts": [
+        {
+            "active": true,
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
+            "msa": {
+                "refresh_token": "M"
+            },
+            "msa-client-id": "c36a9fb6-4f2a-41ff-90bd-ae7cc92031eb",
+            "profile": {
+                "capes": [],
+                "id": "",
+                "name": "YOURNAMEHERE",
+                "skin": {
+                    "id": "",
+                    "url": "",
+                    "variant": "SLIM"
+                }
+            },
+            "type": "MSA"
+        }
+    ],
+    "formatVersion": 3
+}
